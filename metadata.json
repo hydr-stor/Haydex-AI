@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Space-Travel Landing Page",
+  "description": "A cinematic space-travel landing page with liquid-glass design system, custom JS video crossfade, and smooth motion entrance animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
